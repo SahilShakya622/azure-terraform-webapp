@@ -1,0 +1,6 @@
+resource_group_name     = "web-app-rg"
+location               = "East US"
+app_service_plan_name  = "web-app-service-plan"
+web_app_name           = "webapp-example"
+sku                    = "B1"
+storage_account_name   = "webappstorageacct"
